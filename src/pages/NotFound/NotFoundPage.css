@@ -1,0 +1,32 @@
+.WrapperNotFoundPage {
+  width: 50%;
+  height: 50%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  color: #fff;
+  background: #1a1a40;
+  padding: 50px;
+  border-radius: 8px;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.WrapperNotFoundPage h1 {
+  font-size: 100px;
+}
+
+.WrapperNotFoundPage button {
+  margin-top: 20px;
+}
+
+.WrapperNotFoundPage button a {
+  text-decoration: none;
+  color: #fff;
+}

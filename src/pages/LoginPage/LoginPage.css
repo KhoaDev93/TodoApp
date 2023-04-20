@@ -1,0 +1,9 @@
+.form-login {
+  display: flex;
+  flex-direction: column;
+}
+
+.label-login {
+  text-align: left;
+  font-size: 12px;
+}
